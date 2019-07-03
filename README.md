@@ -1,9 +1,21 @@
-# CNN PixelSeeds
+# CMS OpenData CNN PixelSeeds - Machine Learning Usage example
 
+This repository contains Jupyter notebooks as examples on how to use the CMS OpenData CNNPixelSeeds data set (here[http://opendata-dev.web.cern.ch/record/12320]).
+
+First clone the repository to your working directory. In `requirements.txt` you may find the needed python packages.
+```
+$ git git@github.com:cernopendata-datascience/CNNPixelSeedsMachineLearning.git
+$ cd CNNPixelSeedsMachineLearning/
+```
+Then opening up the Jupyter Notebook
+```
+$ jupyter notebook
+```
+you can start to explore the notebookes. A list of a sample of files is included in `file_index.txt`. The `dataset.py` is an helper class to access the dataset. The `doublets_visualisation` notebook will help you in visualising and accessing the dataset while `ml_filtering` contains a first example on how to apply ML techniques (BDTs or DNNs) for pixel seeds filtering. 
 
 ### The dataset
 
-The dataset created above consists of a collection of pixel doublet seeds that would be used by CMS track reconstruction workflow. Each doublet is characterised by a list of features:
+The Pixel Seeds dataset provided consistes of a collection of pixel doublet seeds that would be used by CMS track reconstruction workflow. Each doublet is characterised by a list of features:
 
 <table>
   <tr>
