@@ -1,6 +1,7 @@
 # CMS OpenData CNN PixelSeeds - Machine Learning Usage example
 
-This repository contains Jupyter notebooks as examples on how to use the CMS OpenData CNNPixelSeeds data set (here[http://opendata-dev.web.cern.ch/record/12320]).
+This repository contains Jupyter notebooks as examples on how to use the CMS OpenData CNNPixelSeeds data set
+[here](http://opendata-dev.web.cern.ch/record/12320).
 
 First clone the repository to your working directory. In `requirements.txt` you may find the needed python packages.
 ```
