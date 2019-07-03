@@ -12,7 +12,7 @@ Then opening up the Jupyter Notebook
 ```
 $ jupyter notebook
 ```
-you can start to explore the notebookes. A list of a sample of files is included in `file_index.txt`. The `dataset.py` is an helper class to access the dataset. The `doublets_visualisation` notebook will help you in visualising and accessing the dataset while `ml_filtering` contains a first example on how to apply ML techniques (BDTs or DNNs) for pixel seeds filtering. 
+you can start to explore the notebooks. A sample list of files is included in `file_index.txt`. The `dataset.py` is an helper class to access the dataset. The `doublets_visualisation` notebook will help you in visualising and accessing the dataset while `ml_filtering` contains a first example on how to apply ML techniques (BDTs or DNNs) for pixel seeds filtering. 
 
 ### The dataset
 
