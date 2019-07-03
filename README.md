@@ -16,7 +16,7 @@ you can start to explore the notebooks. A sample list of files is included in `f
 
 ### The dataset
 
-The Pixel Seeds dataset provided consistes of a collection of pixel doublet seeds that would be used by CMS track reconstruction workflow. Each doublet is characterised by a list of features:
+The Pixel Seeds dataset provided consists of a collection of pixel doublet seeds that would be used by CMS track reconstruction workflow. Each doublet is characterised by a list of features:
 
 <table>
   <tr>
@@ -291,9 +291,6 @@ Rapidity
   </tr>
 </table>
 
-
-
-The notebook in `CNNPixelSeedsProducerTool/notebooks/cnn_filtering.ipynb` is a good starting point to explore and understand the datset features.
 
 
 [1] https://twiki.cern.ch/twiki/bin/view/CMSPublic/SWGuideIterativeTracking
